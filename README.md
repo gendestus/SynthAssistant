@@ -10,7 +10,7 @@ Right now, SynthAssistant only support OpenAI LLMs and a remote Chroma vector da
 ### Usage
 1. Clone the repo
 2. Set a new environment variable for the OpenAI api key with the name OPENAI_API_KEY
-3. `pip install -r requriments.txt`
+3. `pip install -r requirments.txt`
 4. Import `SynthAssistant` into your python project
 
 Example
